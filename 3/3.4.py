@@ -1,8 +1,6 @@
 
 
-n=int(input())
 s=0
-for i in range(n):
-    a=int(input())
-    s+=a
+for i in range(int(input())):
+    s+=int(input())
 print(s)
