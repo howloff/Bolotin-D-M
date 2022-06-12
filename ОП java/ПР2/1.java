@@ -1,4 +1,5 @@
-
+//Вариант 6
+//Составить и вывести на экран массив с N максимальными значениями исходного массива.
 public class One {
     public static final int N = 4; //N -  константа
     public static void main(String[] args) {
