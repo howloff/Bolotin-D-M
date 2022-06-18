@@ -1,4 +1,3 @@
-
 public class LogPass {
 	public static void main (String[] args) {
 
