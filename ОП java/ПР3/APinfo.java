@@ -1,9 +1,8 @@
-
 public class APinfo {
 	 public static void main(String[] args) {
 
 		 academicperformance AP = new academicperformance();
-		 AP.setId_studenta("666777");
+		 AP.setId_studenta("217060");
 		 AP.setStudents("Danila Bolotin");
 		 AP.setFam("Bolotin");
 		 AP.setName("Danila");
