@@ -1,6 +1,4 @@
-
-public class academicperformance {
-	
+public class academicperformance {	
 
 	    private String Id_studenta;
 	    private String Students;
@@ -60,4 +58,4 @@ public class academicperformance {
 	    public String toString(){
 	      return "Student performance:\n" + "Record book number - " + this.Id_studenta + "\nStudent - "+ this.Students + "\nSurname - " + this.Fam + "\nName: " + this.Name + "\nGroup - " + this.Groupa + "\nDepartment - " + this.Department + "\nDiscipline - " + this.Discipline + "\nMark - " + this.Mark + "\nNameTeacher - " + this.NameTeacher;
 	    }
-	}
+}
