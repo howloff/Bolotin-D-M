@@ -42,5 +42,7 @@ public class Three {
 
         for (int i = 0; i < vectorA.length; i++) {
             System.out.println("Index of the minimum element of the string " + i + " = " + vectorA[i]);
-}}}
+        }
+    }
+}
   
